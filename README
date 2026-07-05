@@ -1,0 +1,20 @@
+  ------------------------------
+  |                    [^]     |
+  | [Z] [X] [C]    [<] [v] [>] |
+  ------------------------------
+
+   ________              ^
+  / ______|            _/ \
+ / /                  /    \
+ | |
+ \ \_______
+  \_______| e l e s t e P a d
+
+[ Made at Hack Club ]
+
+CelestePad is a macropad made as a controller
+playing Celeste with keyboard controls.
+
+There are two CelestePad versions planned:
+  * CelestePad Origin: A low-cost keyboard for stationary use
+  * CelestePad: A wired, split controller with magnetic accessories
